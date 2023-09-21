@@ -50,7 +50,7 @@
 }
 
 .container-fluid .container {
-    background-color: #111111;
+    background-color: #000000;
 }
 .container-fluid .container .text-center {
 	color: #FFFFFF;
@@ -75,5 +75,5 @@ footer .row .col-sm-6.text-center  {
 	font-size: 13px;
 }
 .container-fluid {
-	background-color: #000000;
+	background-color: #CCCCCC;
 }
