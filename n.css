@@ -77,3 +77,6 @@ footer .row .col-sm-6.text-center  {
 .container-fluid {
 	background-color: #CCCCCC;
 }
+.container-fluid .container .text-center {
+    margin-top: 20px;
+}
