@@ -1,5 +1,5 @@
 @charset "utf-8";
-.container-fluid .container .navbar.navbar-expand-lg.navbar-light {
+.container-fluid .container .navbar.navbar-expand-lg.navbar-dark {
 	background-color: #444444;
 }
 .row .col-lg-4 .card.col-md-4.col-lg-12 {
@@ -79,4 +79,10 @@ footer .row .col-sm-6.text-center  {
 }
 .container-fluid .container .text-center {
     margin-top: 20px;
+}
+.navbar.navbar-expand-lg.navbar-light .navbar-toggler .navbar-toggler-icon {
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: #FFFFFF;
+
 }
